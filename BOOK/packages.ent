@@ -17,10 +17,10 @@
 <!ENTITY busybox-home "http://www.busybox.net">
 
 <!ENTITY clfs-bootscripts-version "git master HEAD">
-<!ENTITY clfs-bootscripts-size "5 KB">
-<!ENTITY clfs-bootscripts-url "http://git.clfs.org/?p=bootscripts-embedded.git;a=snapshot;h=HEAD;sf=tgz">
+<!ENTITY clfs-bootscripts-size "3 KB">
+<!ENTITY clfs-bootscripts-url "https://github.com/cross-lfs/bootscripts-embedded/archive/master.tar.gz">
 <!ENTITY clfs-bootscripts-md5 "N/A">
-<!ENTITY clfs-bootscripts-home "http://git.clfs.org/?p=bootscripts-embedded.git">
+<!ENTITY clfs-bootscripts-home "https://github.com/cross-lfs/bootscripts-embedded">
 
 <!ENTITY gcc-version "6.2.0">
 <!ENTITY gcc-size "97441 KB">
@@ -49,7 +49,7 @@
 
 <!ENTITY mpc-version "1.0.3">
 <!ENTITY mpc-size "655 KB">
-<!ENTITY mpc-url "http://www.multiprecision.org/mpc/download/mpc-&mpc-version;.tar.gz">
+<!ENTITY mpc-url "&gnu;mpc/mpc-&mpc-version;.tar.gz">
 <!ENTITY mpc-md5 "d6a1d5f8ddea3abd2cc3e98f58352d26">
 <!ENTITY mpc-home "http://www.multiprecision.org/">
 
