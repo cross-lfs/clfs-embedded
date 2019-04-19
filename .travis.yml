@@ -1,0 +1,12 @@
+# We need the apt addon to properly perform `apt update` for us
+addons:
+  apt:
+    update: true
+
+before_install: sudo apt install -y docbook-xml docbook-xsl libxml2-utils lynx xsltproc tidy
+
+dist: xenial
+
+language: shell
+
+script: cd BOOK && make
