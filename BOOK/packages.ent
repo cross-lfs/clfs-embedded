@@ -49,7 +49,7 @@
 
 <!ENTITY mpc-version "1.0.3">
 <!ENTITY mpc-size "655 KB">
-<!ENTITY mpc-url "http://www.multiprecision.org/mpc/download/mpc-&mpc-version;.tar.gz">
+<!ENTITY mpc-url "&gnu;mpc/mpc-&mpc-version;.tar.gz">
 <!ENTITY mpc-md5 "d6a1d5f8ddea3abd2cc3e98f58352d26">
 <!ENTITY mpc-home "http://www.multiprecision.org/">
 
